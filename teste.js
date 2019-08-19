@@ -1,12 +1,2 @@
-dfd
-fd
-fd
-fd
-fdfdf
-df
-dfdfd
-fd
-fdf
-d
-f
-d
+// Definindo a variável do nome do usuário.
+var nome = "Ederson";
